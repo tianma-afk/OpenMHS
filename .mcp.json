@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "model-hardware-standard": {
+      "type": "sse",
+      "url": "http://127.0.0.1:8899/mcp"
+    }
+  }
+}
